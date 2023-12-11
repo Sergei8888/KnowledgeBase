@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "e3f55086b49ab538",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2b6a48d409100b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd781612e6034978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agile/Agile манифест разработки программного обеспечения.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd690dc2e78667e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "503fb9b421b18d51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea07f49bc69d1b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "371e0ae33b96b78c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09a54c74919630a0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd19403d467aefc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3eca726c8cab6ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "072443c98295d340",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda2e2893fecc6bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Agile/Agile манифест разработки программного обеспечения.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "127f4aaadc75e289",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Agile/Agile манифест разработки программного обеспечения.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4adceb7620c09141",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "563516a551bd655a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Agile/Agile манифест разработки программного обеспечения.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd781612e6034978",
+  "lastOpenFiles": [
+    "Agile/Принципы Agile.md",
+    "Agile/Crystal Clear/Основные методы Crystal.md",
+    "Agile/Crystal Clear/Crystal Clear.md",
+    "Agile/Untitled.md",
+    "Agile/Осмотическая коммуникация.md",
+    "Agile/Crystal Clear/Ключевые правила Crystal.md",
+    "Agile/Метод маленьких партий.md",
+    "Agile/Постоянная интеграция (CI).md",
+    "Agile/Постоянная поставка (CD).md",
+    "Agile/Crystal Clear",
+    "Agile/Ретроспектива.md",
+    "Agile/Agile манифест разработки программного обеспечения.md",
+    "Agile/Extreme programming (XP).md",
+    "Agile/Agile.md",
+    "Agile/Scrum.md",
+    "Сервисы для деплоя.md",
+    "Agile",
+    "Критерии приемки дизайна.md",
+    "Дизайн.md",
+    "Untitled.canvas"
+  ]
+}
