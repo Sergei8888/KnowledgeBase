@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agile/Agile манифест разработки программного обеспечения.md",
+                "file": "Software architect/Modular monolith.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Modular monolith"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -101,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Agile манифест разработки программного обеспечения"
             }
           },
           {
@@ -113,7 +126,9 @@
                 "file": "Agile/Agile манифест разработки программного обеспечения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Agile манифест разработки программного обеспечения"
             }
           },
           {
@@ -123,8 +138,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agile/Agile манифест разработки программного обеспечения.md"
-              }
+                "file": "Agile/Agile манифест разработки программного обеспечения.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Agile манифест разработки программного обеспечения"
             }
           }
         ]
@@ -156,6 +180,13 @@
   },
   "active": "dd781612e6034978",
   "lastOpenFiles": [
+    "Software architect/Ресурсы для расширения technical breadth.md",
+    "Software architect/Modular monolith.md",
+    "Software architect/Software architect.md",
+    "Аутентификация и авторизация/Аутентификация и авторизация.md",
+    "Software architect",
+    "Agile/Agile манифест разработки программного обеспечения.md",
+    "Аутентификация и авторизация",
     "Agile/Принципы Agile.md",
     "Agile/Crystal Clear/Основные методы Crystal.md",
     "Agile/Crystal Clear/Crystal Clear.md",
@@ -167,7 +198,6 @@
     "Agile/Постоянная поставка (CD).md",
     "Agile/Crystal Clear",
     "Agile/Ретроспектива.md",
-    "Agile/Agile манифест разработки программного обеспечения.md",
     "Agile/Extreme programming (XP).md",
     "Agile/Agile.md",
     "Agile/Scrum.md",
