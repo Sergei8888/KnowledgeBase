@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software architect/Modular monolith.md",
+                "file": "Высокая агентность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modular monolith"
+              "title": "Высокая агентность"
             }
           }
         ]
@@ -180,8 +180,11 @@
   },
   "active": "dd781612e6034978",
   "lastOpenFiles": [
-    "Software architect/Ресурсы для расширения technical breadth.md",
+    "Agile/Pasted image 20250412022825.png",
+    "Agile/Pasted image 20250412022821.png",
     "Software architect/Modular monolith.md",
+    "Высокая агентность.md",
+    "Software architect/Ресурсы для расширения technical breadth.md",
     "Software architect/Software architect.md",
     "Аутентификация и авторизация/Аутентификация и авторизация.md",
     "Software architect",
